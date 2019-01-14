@@ -1,5 +1,5 @@
 # License-Plate-Number-Fetcher
-Image Processing based method to detect a license plate and extract the number in a text format to store. 
+Image Processing based method to detect a license plate from a Vehicle Image and extract the License number in a text format. 
 
 ### Motivation: 
 Have you ever observed that your vehicle numbers get automatically printed in your toll gate pay slip?!
